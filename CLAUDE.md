@@ -20,6 +20,8 @@ Horizons-Ui and Æsc.
 
 ## Conventions
 
+- `screen-vision/` — real-time pixel canvas parsing and vision capture.
+- `voice-ast-stack/` — native low-latency VAD, TTS, and STT pipelines.
 - Protocol specs in `protocol/` — media daemon lifecycle, audio pipeline
   contract, VAD thresholds, TTS streaming.
 - Reference docs in `docs/` — Moonshine/Kokoro setup, Silero VAD integration,
