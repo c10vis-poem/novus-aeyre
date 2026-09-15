@@ -1,6 +1,6 @@
 # Æyre — voice and vision daemon
 
-Canon name: **Æyre**. Repo name: `novus-aeyre`. See `novae-xorpus/NAMING-CANON.md`.
+Canon name: **Æyre**. Repo name: `novus-aeyre`. See `NovAExorpus/NAMING-CANON.md`.
 
 ## What this is
 
