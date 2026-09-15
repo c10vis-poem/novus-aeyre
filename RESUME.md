@@ -23,13 +23,13 @@ Checked this repo's Drive source material (`Æsc&Æyre` subfolder of
 `___Lex-Novi-Æxentis-Copiæ`, per `05_FEDERATED_FILE_TREE_TOPOLOGY_MASTER.md`'s
 14-subfolder mapping table, entry `Reverse-Engineering`). Confirmed via
 `AUDIT_LEX_NOVI_AESOP_XI.md` that this material was already fully synthesized
-into `novaexopia/README_NOVAEXOPIA.md` and
-`novaexopia/01_SOVEREIGN_NODE_AND_APK_TOPOLOGY.md` — out of scope for this
+into `NovAExopia/README_NOVAEXOPIA.md` and
+`NovAExopia/01_SOVEREIGN_NODE_AND_APK_TOPOLOGY.md` — out of scope for this
 repo. The raw subfolder itself is not shared with this Claude Code session
 (only the audit summary is), so nothing further was retrievable to place
 here. Added the missing section-kit files (`agent.md`, this file,
 `unresolved.md`) per the corrected per-repo layout in
-`novae-xorpus/project_novae_xorpus_repo_layout_correction.md` (see project
+`NovAExorpus/project_novae_xorpus_repo_layout_correction.md` (see project
 memory, not committed to this repo).
 
 ## Next
@@ -38,4 +38,4 @@ memory, not committed to this repo).
   `app/vad/`, `app/stt/`, `app/tts/` per the planned layout in `README.md`.
 - Verify the live mic loop before building further on it.
 - Start the vision path — no design exists yet; check `aesop-xi` and
-  `novaexopia` first for anything already decided.
+  `NovAExopia` first for anything already decided.
